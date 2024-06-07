@@ -1,0 +1,1 @@
+web: java -Dserver.port=$PORT -jar target/EcoWave-0.0.1-SNAPSHOT-exec.jar
